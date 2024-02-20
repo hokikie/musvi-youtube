@@ -1,0 +1,19 @@
+{
+  "manifest_version": 3,
+  "name": "Musvi YouTube",
+  "description": "YouTube Music to video: Bypass Premium",
+  "version": "1.0",
+  "icons": {
+    "16": "assets/icons/icon-16.png",
+    "48": "assets/icons/icon-48.png",
+    "128": "assets/icons/icon-128.png"
+  },
+  "action": {
+    "default_icon": "assets/icons/icon.png"
+  },
+  "background": {
+    "service_worker": "background.js"
+  },
+  "permissions": ["webRequest"],
+  "host_permissions": ["https://music.youtube.com/*"]
+}

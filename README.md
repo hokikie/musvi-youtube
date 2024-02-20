@@ -21,6 +21,10 @@ The YouTube Music Redirect Extension is a browser extension designed to enhance 
 - Seamless experience: Users can enjoy their music without being directed to an annoying premium subscription page.
 - Compatibility: Premium subscribers can use YouTube Music in the extension without interruption.
 
+## Installation
+
+[Download via Github]
+
 ## Feedback and Contributions
 
 If you run into any issues or have suggestions for improvements, feel free to open an issue or submit a pull request.
@@ -28,3 +32,4 @@ If you run into any issues or have suggestions for improvements, feel free to op
 [before]: assets/images/preview-before.webp
 [after]: assets/images/preview-after.webp
 [premium]: assets/images/preview-premium.webp
+[Download via Github]: https://github.com/hokikie/musvi-youtube/archive/refs/tags/v1.0.0.zip

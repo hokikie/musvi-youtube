@@ -7,6 +7,11 @@
 <p align="center">
   Musvi YouTube is a Chrome extension that bypasses premium redirects.
 </p>
+<p align="center">
+  <a href="https://chromewebstore.google.com/detail/efdhldepogfgcdfmangmmdaiakekbhlo">
+    <img src="https://github.com/nuyhman/musvi-youtube/assets/96006602/2c749716-1124-495b-a5ac-4b1e3dfa26dc" />
+  </a>
+</p>
 
 | ![before]Before Using the Extension | ![after]After Using the Extension | ![premium]Premium Subscribers |
 | ----------------------------------- | --------------------------------- | ----------------------------- |
@@ -23,7 +28,8 @@ The YouTube Music Redirect Extension is a browser extension designed to enhance 
 
 ## Installation
 
-[Download via Github]
+- [Download via Chrome Extension]
+- [Download via Github]
 
 ## Feedback and Contributions
 
@@ -33,3 +39,4 @@ If you run into any issues or have suggestions for improvements, feel free to op
 [after]: assets/images/preview-after.webp
 [premium]: assets/images/preview-premium.webp
 [Download via Github]: https://github.com/hokikie/musvi-youtube/archive/refs/tags/v1.0.0.zip
+[Download via Chrome Extension]: https://chromewebstore.google.com/detail/efdhldepogfgcdfmangmmdaiakekbhlo
